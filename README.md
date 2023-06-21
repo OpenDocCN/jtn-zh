@@ -6,7 +6,7 @@
 > 
 > 一次编译，到处调试。
 
-* [在线阅读](http://jtn.apachecn.org/)
+* [在线阅读](http://jtn.flygon.net/)
 ## 下载
 
 ### Docker
